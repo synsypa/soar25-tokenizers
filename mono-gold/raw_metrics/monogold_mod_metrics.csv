@@ -1,0 +1,17 @@
+model,tokenizer,blimp,xcopa,squad_v2,hellaswag,winogrande,math-1digit,math-2digit
+mono_gold_130m_pre_lr1e-4_eng_latn_bpe_unscaled_8192,bpe_unscaled_8192,0.58566,0.51236,0.12739,0.26618,0.48934,0.08667,0.00745
+mono_gold_130m_pre_lr1e-4_eng_latn_bpe_unscaled_16384,bpe_unscaled_16384,0.59996,0.51364,0.12657,0.25951,0.48382,0.13111,0.00392
+mono_gold_130m_pre_lr1e-4_eng_latn_bpe_unscaled_32768,bpe_unscaled_32768,0.61337,0.51345,0.12789,0.25573,0.51066,0.12444,0.00497
+mono_gold_130m_pre_lr1e-4_eng_latn_bpe_unscaled_49152,bpe_unscaled_49152,0.65378,0.51527,0.12657,0.25413,0.50197,0.12889,0.00370
+mono_gold_130m_pre_lr1e-4_eng_latn_bpe_unscaled_65536,bpe_unscaled_65536,0.64155,0.51382,0.13275,0.25563,0.50592,0.11000,0.00370
+mono_gold_130m_pre_lr1e-4_eng_latn_bpe_unscaled_81920,bpe_unscaled_81920,0.64537,0.51073,0.12972,0.25822,0.50118,0.11333,0.00372
+mono_gold_130m_pre_lr1e-4_eng_latn_bpe_unscaled_98304,bpe_unscaled_98304,0.66076,0.51164,0.14077,0.26011,0.50671,0.12778,0.00377
+mono_gold_130m_pre_lr1e-4_eng_latn_bpe_unscaled_114688,bpe_unscaled_114688,0.65758,0.51145,0.13584,0.25832,0.49250,0.11556,0.00381
+mono_gold_130m_pre_lr1e-4_eng_latn_unigram_unscaled_8192,unigram_unscaled_8192,0.58704,0.51745,0.12897,0.26608,0.50908,0.08444,0.00346
+mono_gold_130m_pre_lr1e-4_eng_latn_unigram_unscaled_16384,unigram_unscaled_16384,0.60119,0.51273,0.13023,0.25682,0.48934,0.12222,0.00074
+mono_gold_130m_pre_lr1e-4_eng_latn_unigram_unscaled_32768,unigram_unscaled_32768,0.61803,0.51909,0.12606,0.25871,0.49250,0.10222,0.00562
+mono_gold_130m_pre_lr1e-4_eng_latn_unigram_unscaled_49152,unigram_unscaled_49152,0.63984,0.51491,0.12732,0.25812,0.50592,0.11889,0.00527
+mono_gold_130m_pre_lr1e-4_eng_latn_unigram_unscaled_65536,unigram_unscaled_65536,0.62628,0.51800,0.12972,0.25732,0.49645,0.10667,0.00376
+mono_gold_130m_pre_lr1e-4_eng_latn_unigram_unscaled_81920,unigram_unscaled_81920,0.60187,0.51818,0.12770,0.25642,0.49803,0.12444,0.00391
+mono_gold_130m_pre_lr1e-4_eng_latn_unigram_unscaled_98304,unigram_unscaled_98304,0.63827,0.51364,0.12852,0.25881,0.48303,0.12444,0.00377
+mono_gold_130m_pre_lr1e-4_eng_latn_unigram_unscaled_114688,unigram_unscaled_114688,0.59234,0.51727,0.16285,0.25881,0.53354,0.14111,0.00455
